@@ -1,2 +1,2 @@
 #!/bin/bash
-alias cd= 'cd /root'
+cd
